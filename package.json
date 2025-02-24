@@ -1,0 +1,25 @@
+{
+  "name": "backend_ca-2",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/DHANYA-00/Backend_CA-2#readme",
+  "bugs": {
+    "url": "https://github.com/DHANYA-00/Backend_CA-2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DHANYA-00/Backend_CA-2.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "node": "^18.20.7"
+  }
+}
